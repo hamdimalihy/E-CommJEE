@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "TEST",
+      "price": 12.45,
+      "category": [
+        "fashion"
+      ],
+      "stock": 10,
+      "image": [
+        "/assets/img/product/fashion/1.jpg",
+        "/assets/img/product/fashion/9.jpg"
+      ],
+      "shortDescription": "dddddd"
+    },
+    {
+      "id": "2",
+      "name": "TEST",
+      "price": 12.45,
+      "category": [
+        "fashion"
+      ],
+      "stock": 10,
+      "image": [
+        "/assets/img/product/fashion/1.jpg",
+        "/assets/img/product/fashion/9.jpg"
+      ],
+      "shortDescription": "dddddd"
+    },
+    {
+      "id": "3",
+      "name": "TEST",
+      "price": 12.45,
+      "category": [
+        "fashion"
+      ],
+      "stock": 10,
+      "image": [
+        "/assets/img/product/fashion/1.jpg",
+        "/assets/img/product/fashion/9.jpg"
+      ],
+      "shortDescription": "dddddd"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Galaxy 10",
+      "shortDescription": "fitco 2020",
+      "price": 1999,
+      "stock": 3,
+      "status": true,
+      "image": [
+        "/assets/img/product/fashion/1.jpg"
+      ],
+      "category": [
+        "Galaxy"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "firstName": "asfas",
+      "lastName": "fasfas",
+      "companyName": "fasf",
+      "country": "Morocco",
+      "adresse": "afasdf",
+      "city": "asfdasf",
+      "phone": "asdfasd",
+      "mail": "asfasf",
+      "notes": "safsadf",
+      "products": "1",
+      "totalPrice": 1999,
+      "id": 1
+    },
+    {
+      "firstName": "asfas",
+      "lastName": "fasfas",
+      "companyName": "fasf",
+      "country": "Morocco",
+      "adresse": "afasdf",
+      "city": "asfdasf",
+      "phone": "asdfasd",
+      "mail": "asfasf",
+      "notes": "safsadf",
+      "products": "1",
+      "totalPrice": 1999,
+      "id": 2
+    },
+    {
+      "firstName": "asfas",
+      "lastName": "fasfas",
+      "companyName": "fasf",
+      "country": "Morocco",
+      "adresse": "afasdf",
+      "city": "asfdasf",
+      "phone": "asdfasd",
+      "mail": "asfasf",
+      "notes": "safsadf",
+      "products": "1",
+      "totalPrice": 1999,
+      "id": 3
+    },
+    {
+      "firstName": "asfas",
+      "lastName": "fasfas",
+      "companyName": "asdfasdf",
+      "country": "Morocco",
+      "adresse": "asdf",
+      "city": "asdfas",
+      "phone": "asdfasf",
+      "mail": "asfd",
+      "notes": "asdfasdf",
+      "products": [
+        {
+          "id": 1,
+          "name": "Galaxy 10",
+          "shortDescription": "fitco 2020",
+          "price": 1999,
+          "stock": 3,
+          "status": 1,
+          "image": ""
+        }
+      ],
+      "totalPrice": 1999,
+      "id": 4
+    }
+  ]
+}
